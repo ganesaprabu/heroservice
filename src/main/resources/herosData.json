@@ -1,0 +1,88 @@
+[
+	{
+		"id": 1,
+		"name": "Superman",
+		"power": "Super strength, flight, heat vision",
+		"appearance": {
+			"height": "6'3\"",
+			"weight": "225 lbs",
+			"hair": "Black",
+			"eyes": "Blue"
+		},
+		"weaknesses": [
+			"Kryptonite",
+			"Magic"
+		],
+		"alliances": [
+			"Justice League"
+		]
+	},
+	{
+		"id": 2,
+		"name": "Batman",
+		"power": "Genius intellect, martial arts, gadgets",
+		"appearance": {
+			"height": "6'0\"",
+			"weight": "210 lbs",
+			"hair": "Black",
+			"eyes": "Gray"
+		},
+		"weaknesses": [
+			"Mortality"
+		],
+		"alliances": [
+			"Justice League"
+		]
+	},
+	{
+		"id": 3,
+		"name": "Wonder Woman",
+		"power": "Super strength, flight, invulnerability",
+		"appearance": {
+			"height": "6'0\"",
+			"weight": "200 lbs",
+			"hair": "Dark brown",
+			"eyes": "Blue"
+		},
+		"weaknesses": [
+			"Magic"
+		],
+		"alliances": [
+			"Justice League",
+			"Themyscira"
+		]
+	},
+	{
+		"id": 4,
+		"name": "Spider-Man",
+		"power": "Super strength, spider-sense, web-slinging",
+		"appearance": {
+			"height": "5'10\"",
+			"weight": "160 lbs",
+			"hair": "Brown",
+			"eyes": "Hazel"
+		},
+		"weaknesses": [
+			"Radioactivity"
+		],
+		"alliances": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 5,
+		"name": "Iron Man",
+		"power": "Genius intellect, armored suit",
+		"appearance": {
+			"height": "5'11\"",
+			"weight": "210 lbs (in suit)"
+		},
+		"weaknesses": [
+			"Mortality (without suit)"
+		],
+		"alliances": [
+			"Avengers",
+			"S.H.I.E.L.D."
+		]
+	}
+]
